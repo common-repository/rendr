@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dvdoug/boxpacker": "2.7.1"
+    }
+}
